@@ -1,2 +1,4 @@
-# docs
-asd docs
+docs
+====
+
+[asd docs](asd.md)
